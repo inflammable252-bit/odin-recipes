@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(255,235,225);
+    padding: 8px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    display: inline-block;
+    background-color:white;
+    border: 8px solid black;
+    padding: 10px;
+}
+
+h2 {
+    margin: 24px 8px 8px 8px;
+}
+
+div{
+    background-color:whitesmoke;
+}
+
+figure {
+    padding: 16px 8px 8px 8px;
+    margin: 8px auto;
+}
+
+figure p {
+    text-align: left;
+    margin: 16px auto;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    margin: -8px 8px 8px 8px;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-color: rgb(255,175,150);
+    display: inline-block;
+    padding: 20px;
+    margin: 16px;
+    border: 4px double rgb(255,175,150);
+    background-color:rgb(255,225,225);
+}
